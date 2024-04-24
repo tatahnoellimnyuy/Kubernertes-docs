@@ -9,7 +9,7 @@
 
 
 **Step 1: Deploy Fleet server**
-
+here is the doc https://fleetdm.com/docs/deploy/deploy-fleet-on-kubernetes
 # Deploying Fleet with Helm
 
 To configure preferences for Fleet for use in Helm, including secret names, MySQL and Redis hostnames, and TLS certificates, download the `values.yaml`[values.yaml](https://raw.githubusercontent.com/fleetdm/fleet/main/charts/fleet/values.yaml)   and change the settings to match your configuration.
